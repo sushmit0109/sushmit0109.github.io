@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Publications | Asif Shahriyar Sushmit</title>
+  <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <div class="brand">
+        <a href="index.html" class="brand-name">Asif Shahriyar Sushmit</a>
+        <span class="brand-sub">Publications</span>
+      </div>
+      <nav class="nav">
+        <a href="index.html#research">Back to overview</a>
+        <a class="btn" href="data/AsifSushmit-CV.pdf">CV (PDF)</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="section">
+    <div class="container">
+      <h2>Publications (selected + extended list)</h2>
+      <p class="muted">
+        This page mirrors the “Selected Publications” section of my CV and can be expanded further.
+        If you want every publication with DOI/arXiv links, I can auto-generate this page from your BibTeX.
+      </p>
+
+      <div class="panel">
+        <h3>High-impact / frequently cited</h3>
+        <ol class="pubs">
+          <li><span class="pub-title">A pipeline for lung tumor detection and segmentation from CT scans using dilated convolutional neural networks</span> — IEEE ICASSP (2019)</li>
+          <li><span class="pub-title">End-to-end sleep staging with raw single channel EEG using deep residual convnets</span> — IEEE EMBS BHI (2019)</li>
+          <li><span class="pub-title">Bengali Common Voice speech dataset for automatic speech recognition</span> — arXiv (2022)</li>
+          <li><span class="pub-title">A Large Multi-Target Dataset of Common Bengali Handwritten Graphemes</span> — ICDAR (2020)</li>
+          <li><span class="pub-title">X-ray image compression using convolutional recurrent neural networks</span> — IEEE EMBS BHI (2019)</li>
+          <li><span class="pub-title">Cardiac CT motion artifact grading via semi-automatic labeling and vessel tracking using synthetic image-augmented training data</span> — Journal of X-Ray Science and Technology (2022)</li>
+        </ol>
+      </div>
+
+      <div class="panel" style="margin-top:14px;">
+        <h3>Language tech & datasets</h3>
+        <ol class="pubs">
+          <li><span class="pub-title">Badlad: A large multi-domain Bengali document layout analysis dataset</span> — ICDAR (2023)</li>
+          <li><span class="pub-title">OOD-Speech: A Large Bengali Speech Recognition Dataset for Out-of-Distribution Benchmarking</span> — Interspeech (2023)</li>
+          <li><span class="pub-title">TEAM-Atreides at SemEval-2022 Task 11: Recognizing complex named entities in Bangla</span> — SemEval (2022)</li>
+          <li><span class="pub-title">SegCodeNet: Color-coded segmentation masks for activity detection from wearable cameras</span> — arXiv (2020)</li>
+        </ol>
+      </div>
+
+      <div class="callout" style="margin-top:16px;">
+        Want the full list with links? Add your BibTeX and I will generate:
+        <strong>authors, venue, year, arXiv/DOI, and citation-based ordering</strong>.
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div class="muted">© <span id="y">2026</span> Asif Shahriyar Sushmit</div>
+    </div>
+    <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+  </footer>
+</body>
+</html>
