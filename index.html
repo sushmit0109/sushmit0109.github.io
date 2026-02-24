@@ -6,6 +6,10 @@
   <title>Asif Shahriyar Sushmit | Policy Technologist & Data Scientist</title>
   <meta name="description" content="Policy technologist and data scientist bridging AI research, governance, and national-scale digital transformation in Bangladesh.">
   <link rel="stylesheet" href="stylesheet.css">
+  <style>
+    #play-audio-fallback{position:fixed;right:16px;bottom:16px;padding:10px 14px;background:#111;color:#fff;border:none;border-radius:6px;cursor:pointer;opacity:0.9;z-index:9999}
+    #play-audio-fallback:hover{opacity:1}
+  </style>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
@@ -288,5 +292,29 @@
       document.getElementById('y').textContent = new Date().getFullYear();
     </script>
   </footer>
+    <script>
+      document.addEventListener('DOMContentLoaded', function(){
+        const audio = document.createElement('audio');
+        audio.id = 'bg-audio';
+        audio.src = 'data/The_Archimedes_Algorithm.mp3';
+        audio.loop = true;
+        audio.preload = 'auto';
+        audio.volume = 0.8;
+        document.body.appendChild(audio);
+
+        const playFallback = document.createElement('button');
+        playFallback.id = 'play-audio-fallback';
+        playFallback.textContent = '► Play audio';
+        playFallback.style.display = 'none';
+        playFallback.addEventListener('click', function(){
+          audio.play().catch(function(){});
+          playFallback.style.display = 'none';
+        });
+        document.body.appendChild(playFallback);
+
+        // Attempt autoplay; show fallback button if blocked.
+        audio.play().catch(function(){ playFallback.style.display = 'block'; });
+      });
+    </script>
 </body>
 </html>
