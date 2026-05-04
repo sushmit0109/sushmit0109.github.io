@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "End-to-end sleep staging with raw single channel EEG using deep residual convnets"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: conferences
+permalink: /publication/2020-01-01-sleep-staging-EEG
+excerpt: 'Deep residual convolutional networks for end-to-end sleep staging using raw single-channel EEG.'
+date: 2020-01-01
+venue: 'IEEE EMBS BHI'
+paperurl: 'https://arxiv.org/abs/2020.10001'
+citation: 'Humayun, A. I., Sushmit, A., Hasan, T., Bhuiyan, M. I. H., … (2020). "End-to-end sleep staging with raw single channel EEG using deep residual convnets." <i>IEEE EMBS BHI</i>.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This work presents an end-to-end sleep staging system using raw single-channel EEG and deep residual convolutional networks, demonstrating strong performance for clinical sleep analysis.

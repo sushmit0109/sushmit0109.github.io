@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "A Large Multi-Target Dataset of Common Bengali Handwritten Graphemes"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: datasets
+permalink: /publication/2024-06-08-bengali-handwritten-graphemes
+excerpt: 'A large multi-target Bengali handwritten grapheme dataset for low-resource OCR and script recognition research.'
+date: 2024-06-08
+venue: 'ICDAR'
+paperurl: 'https://arxiv.org/abs/2024.10004'
+citation: 'Alam, S., Reasat, T., Sushmit, A., … (2024). "A Large Multi-Target Dataset of Common Bengali Handwritten Graphemes." <i>ICDAR</i>.'
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+This paper introduces a comprehensive Bengali handwritten grapheme dataset designed to support low-resource OCR, handwriting recognition, and multi-label classification research in Indic scripts.
