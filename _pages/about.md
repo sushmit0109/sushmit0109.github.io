@@ -17,12 +17,26 @@ Areas of expertise
 * Applied AI across NLP, speech, vision, and biomedical imaging
 * Stakeholder coordination across government, development partners, academia, and technical teams
 
+Consultancy Services
+======
+**I offer consultancy services on:**
+* Digital governance, policy design, and institutional oversight
+* Cybersecurity assessment and information security controls
+* Data governance and AI policy frameworks
+* Public-sector technology oversight and system design
+* Information security assessments and remediation roadmaps
+* Governance and risk analysis for large-scale digital initiatives
+
+For inquiries, contact [sushmit@ieee.org](mailto:sushmit@ieee.org).
+
 Selected work
 ======
-* Drafted national legal and governance instruments such as the Cyber Safety Ordinance 2025, Personal Data Protection Ordinance 2025, NDGIA Ordinance 2025, and Postal Service Ordinance 2025.
+* Drafted national legal and governance instruments such as the Cyber Safety Ordinance 2025, Personal Data Protection Ordinance 2025, NDGIA Ordinance 2025, and Postal Service Ordinance 2025. [See full list](/laws-and-policies/).
+
 * Reorganized a USD 24M government AI project to support native multimodal LLMs, dialect-aware speech recognition, indigenous language coverage, and local GPU cloud deployment.
 * Delivered information security assessments, security improvement plans, and implementation roadmaps for UNDP and Bangladesh government platforms.
 * Contributed to Bangladesh’s National AI Policy (2026–2030), including governance, data management, risk classification, and regulatory sandbox frameworks.
 * Led community-driven Bengali language technology initiatives, dataset creation, and research collaborations in speech, sign language, and document understanding.
 
-For more about my publications, talks, teaching, and full CV, see [the CV page](/cv/).
+For more about my publications, talks, teaching, and full CV, see [the CV page](/cv/). To view all laws and policies I have contributed to, visit [Laws and Policies](/laws-and-policies/).
+
