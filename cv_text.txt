@@ -1,0 +1,572 @@
+Asif Shahriyar Sushmit
+10, Madhobi, Ramna Police Complex, Ramna Dhaka
+Ħ +8801911-504079
+
+| ć sushmit@ieee.org |
+
+u sushmit0109.github.io
+
+| ] linkedin.com/in/sushmit109/ |
+
+ŵ Asif Sushmit
+
+Profile
+Policy technologist and data scientist with extensive experience in Bangladesh’s digital transformation ecosystem, including cybersecurity and
+data governance legal drafting, public‑sector system design, and technical audit/oversight of national‑scale digital services. Proven ability to op‑
+erate in high‑trust environments, translate international best practices into implementable controls, and coordinate multi‑stakeholder delivery
+across government, development partners, and technical teams. Produces decision‑ready deliverables such as assessment reports, improvement
+plans, implementation roadmaps, and policy/control recommendations, and communicates effectively in both English and Bengali. Additionally,
+has a strong research track record with peer‑reviewed publications and open dataset contributions, and has led community‑driven research ini‑
+tiatives and multi‑institutional collaborations in applied AI and data science.
+
+Core Competencies
+Technical systems & data analysis
+
+Analysis and design of complex digital systems; data‑driven problem solving using modern
+machine learning frameworks; experience across NLP, speech, vision, and biomedical data;
+emphasis on model evaluation, limitations, and responsible use.
+
+Research methods & reproducibility
+
+Experimental design; dataset creation and annotation protocols; quantitative and qualitative analysis;
+reproducible reporting and documentation; academic writing and collaborative research workflows
+using LATEX and version control.
+
+Governance, policy & institutions
+
+Policy and regulatory analysis for digital technologies; data governance and institutional design;
+translation of international standards and best practices into implementable public‑sector
+mechanisms; understanding of accountability, transparency, & public value in tech deployment.
+
+Socio‑technical systems analysis
+Leadership & stakeholder engagement
+
+Evaluation of how technical systems interact with organizational, legal, and social contexts;
+assessment of trade‑offs, risks, and incentives in large‑scale public and private sector digital initiatives.
+Leading and coordinating multidisciplinary teams; stakeholder consultation across government,
+academia, industry, and civil society; technical writing for non‑technical audiences;
+production of decision‑ready reports, policy briefs, and implementation roadmaps.
+
+Professional Experience
+Ministry of Posts, Telecommunications and Information Technology, Government of
+Bangladesh
+
+Dhaka, Bangladesh
+
+Policy Analyst, Ministry of Posts Telecom and IT | Coordinator, ICT Division Adviser’s Office
+2024 – Feb 2025
+• Led and contributed to drafting national legal instruments including the Cyber Safety Ordinance 2025, Personal Data Protection Ordinance 2025,
+National Data Governance & Interoperability Authority (NDGIA) Ordinance 2025, Postal Service Ordinance 2025, Bangladesh Telecommunication
+Ordinance 2025 conducted comparative analysis of laws and standards of other countries, and synthesized multi‑stakeholder inputs into im‑
+plementable legal controls and institutional mechanisms.
+• re‑structured 24M USD Government AI project titled ’Enhancement of Bangla Language in ICT’ and designed project to accommodate native
+multimodal LLM, speech recognition support for major dialects and indigenous languages, native GPU cloud and performed feasibility study
+• Supported whole‑of‑government digital transformation initiatives (e.g., Land, BRTA, NBR, Commerce, Expatriates Welfare, Environment) by
+coordinating cross‑agency planning and aligning operational delivery with governance and risk considerations.
+• Spearheaded design and development coordination for police digital solutions (Online & On‑Call General Diary via 333 Hotline IVR; Online &
+On‑Call FIR; Incident Tracking System; Joint Command Centre communication app), working with technical and operational teams to deploy
+citizen‑facing services in sensitive law‑enforcement contexts. Led the development of native software
+• Coordinated multiple ICT Division programmes and large ICT projects to improve governance, transparency, and delivery discipline across
+participating departments.
+• Conducted organization‑wide information security assessments covering hardware, software, data assets, and operational processes using CIA
+based risk analysis.
+• Developed risk registers, threat models, and mitigation plans aligned with ISO,IEC 27001 and NIST‑inspired controls
+• Reviewed security architecture and system configurations for citizen‑facing government platforms; identified design flaws, trust‑boundary is‑
+sues, and access‑control weaknesses.
+• Produced decision‑ready assessment reports, security improvement plans, and implementation roadmaps for senior government stakeholders.
+ICT Whitepaper Taskforce, Government of Bangladesh
+Dhaka, Bangladesh
+Chief Coordinator
+Mar 2025 – Nov 2025
+• Coordinated a high‑level diagnostic on ICT sector governance over a 15‑year horizon under instruction from the Chief Advisor; produced anal‑
+yses on governance practices, risks, and institutional weaknesses with an emphasis on accountability mechanisms.
+• Conducted investigations into irregularities across government tenders, recruitment processes, and evaluation mechanisms; handled sensitive
+documents and recorded whistleblower testimonies with confidentiality and duty‑of‑care.
+
+MAY 3, 2026
+
+1
+
+UNDP (United Nations Development Programme)
+
+Dhaka, Bangladesh
+
+National Consultant (Information Security)
+Dec 2025 – Jun 2026
+• Conducted comprehensive information security assessments to identify threats and vulnerabilities across hardware, software, and data assets;
+analyzed risks and proposed mitigation measures to protect confidentiality, integrity, and availability (CIA).
+• Reviewed and strengthened security policies, standards, and procedures; developed updated security policy and control recommendations
+aligned with industry best practices.
+• Reviewed system security architecture and configurations to detect design flaws and access/control weaknesses; assessed risk exposure and
+recommended actionable remediation measures to improve overall security posture.
+• Conducted vulnerability scanning and penetration testing and produced a prioritized remediation roadmap to address critical findings.
+• Delivered decision‑ready outputs including an IT security assessment report, security improvement plan, and implementation roadmap in line
+with agreed UNDP deliverables and timelines.
+
+National Consensus Commission, Government of Bangladesh
+
+Dhaka, Bangladesh
+
+Consultant
+2025
+• Designed structured surveys for political parties and public consultations on major reform agendas; managed data collection and analysis and
+supported publication through reform.gov.bd.
+• Developed content and information architecture for a public‑facing portal to publish reform agendas and support transparency.
+• Worked on public engagement regarding the 2026 referendum and led the development of the focal government portal www.gonovote.bd
+
+ICT Division, Government of the People’s Republic of Bangladesh
+
+Dhaka, Bangladesh
+
+Member, National AI Policy Steering Committee
+2025 – 2026
+• Contributed to the formulation of Bangladesh’s National AI Policy (2026–2030), defining national vision, principles, and implementation path‑
+ways for ethical, human‑centric, and innovation‑driven AI adoption.
+• Co‑authored policy frameworks covering AI governance, data management and interoperability, risk classification, regulatory sandboxes,
+public‑sector deployment, and institutional oversight mechanisms.
+• Provided technical and research input across priority sectors including public service delivery, education and R&D, labour and employment,
+healthcare, agriculture, national security, and disaster risk reduction.
+• Integrated international norms and best practices (OECD AI Principles, UNESCO AI Ethics, SDGs, human‑rights‑based approaches) into nationally
+implementable regulatory and governance structures.
+• Worked at the intersection of policy, data governance, and AI systems design, bridging research evidence, technical feasibility, and public‑
+interest considerations.
+
+Alexa Translations
+Machine Learning Engineer (Contractual)
+• Machine learning based technology development focusing on multilingual machine translation systems
+• Development, assessment and deploy of Deep learning models
+• Rule‑based machine translation system development for various language pairs.
+• Collaborating with multidisciplinary teams and coordinating efforts
+
+Google Research
+
+Ontario, Canada
+February 2024 ‑ May 2024
+
+Remote
+
+Expert, Project Niti
+Sept. 2023 – Jan. 2024
+• Conducted adversarial data collection and red‑teaming for Generative AI models to identify socio‑cultural vulnerabilities and improve safety
+guardrails in regional languages.
+• Curated high‑sensitivity linguistic datasets across multiple safety domains to stress‑test model alignment with localized ethical policies and
+safety frameworks.
+• Provided expert socio‑technical analysis on colloquialisms, regional slang, and idiomatic expressions to mitigate risks associated with adver‑
+sarial prompts and harmful content generation.
+• Developed comprehensive linguistic benchmarks and metadata to enhance the model’s grounding and performance within specific cultural
+and regional contexts.
+
+Rensselaer Polytechnic Institute (RPI)
+
+Troy, NY, USA
+
+Graduate Research & Teaching Assistant (Biomedical Engineering)
+Sept 2021 – Sept 2023
+• Conducted graduate‑level research in biomedical imaging, with a focus on Cardiac CT and photon‑counting CT, including data analysis and
+model development.
+• Contributed to peer‑reviewed research on medical imaging systems and algorithms, supporting experimental design, evaluation, and docu‑
+mentation.
+• Supported undergraduate and graduate teaching activities, including lab sessions, grading, and academic mentoring.
+• Collaborated with interdisciplinary research teams across engineering and medical imaging domains.
+
+Brac University, Department of Computer Science and Engineering
+
+Bangladesh
+
+VC Fellow, Lecturer
+Jan 2021 ‑ Sept 2021
+• Teaching Experience: Theory and Lab classes for CSE 422 (Artificial Intelligence), MAT 215 (Complex Variables & Laplace Transformations), MAT
+330 (Numerical Analysis)
+• Research Supervision
+• Assessment, grading, consultation and official activities
+
+MAY 3, 2026
+
+2
+
+EBLICT, ICT Division, Government of Bangladesh
+
+Dhaka, Bangladesh
+
+Machine Learning Expert (Government Consultant)
+May 2021 – Aug 2022
+• Led machine‑learning technology development for 16 public‑facing government NLP services (ASR, TTS, grammar checker, machine translation,
+language modeling).
+• Conducted technical audit/oversight and project management for multiple government digital initiatives (cumulative portfolio value: USD 20M),
+reviewing deliverables and supporting governance and implementation discipline.
+• Drafted Terms of Reference (ToR) for new projects and coordinated multidisciplinary teams across engineering and government stakeholders.
+Actively contributed to government tech policies.
+
+Mayalogy
+
+Bangladesh
+
+Research Engineer
+Sept 2020 ‑ May 2021
+• Working on developing an AI assistive healthcare system focusing on deep learning based NLP and Computer Vision.
+• Leading an AI annotation team of 20 engineers and 15 psychologists for developing deep learning datasets. Closely working with a medical
+team of 150 doctors to provide better AI assisted healthcare.
+• Research on developing a system for converting badly romanized Bangla into standard bangla text.
+
+Department of Biomedical Engineering, Bangladesh University of Engineering and
+Technology
+
+Bangladesh
+
+Research Engineer
+Nov 2018 ‑ August 2020
+• Worked on deep learning‑based biomedical data processing and video surveillance systems with Dr. Taufiq Hasan, Assistant Professor, Depart‑
+ment of Biomedical Engineering, BUET.
+• Research on novel approach based fine grain classification of thoracic radiographic image classification network.
+• Evaluating effect of deep learning‑based image compression on disease classification from biomedical data
+• Developed RadAssist, the first AI‑assisted teleradiology platform from Bangladesh. Also prepared the protocols and approval forms for the
+initiative.
+• Domain Adaptation on Biomedical Data and Building Sensor Agnostic Systems.
+• Tutored the lab competition team, BUET Synapticans for one year.
+
+Coordinator
+
+Research Organization
+
+Bengali.AI, a Non‑profit Community Research Initiative of 8000+ Researchers Working Towards
+Democratizing Bengali Language Technology through Developing Deep Learning Datasets and
+
+Mar 2018 ‑ Present
+
+Launching Research Competitions. Also contributing to government policymaking process.
+• Launched a research competition on Google’s platform Kaggle on Bengali Speech Recognition. Prizemoney: 53000 USD.
+• Crowdsourced the largest speech corpus for Bengali in 9 months using Mozilla Commonvoice Platform. The Corpus currently contains 2000hrs
+of data from 24,000+ people. Also designed a multi‑domain test dataset.
+• Co‑designed the annotation guidelines for Bengali Document Layout Analysis Dataset. It contains object level segmentation of 40k document
+images.
+• Leading a large‑scale of Bangladeshi Sign Language(BdSL) recognition dataset. Crowdsourced the largest annotated video corpus of 80 hours
+in 3 months. Designed the first sign language crowdsourcing platform Bornil.
+• Co‑developed a novel Spell Checker for Bengali. Led an annotation team of 10.
+• Designed a visual annotation platform for Constituency Parsing annotation and education purposes.
+• Worked on 8 Indic Languages on deconstructing issues with Unicode blocks for these languages and development of a novel open‑source
+unicode normalizer algorithm
+• Supervising 20+ research groups from different BD universities.
+• Organizing 10 Kaggle Competitions, 2 featured. Raised 600k USD in funds and waiver. Also secured university funds as co‑PI for dataset creation
+initiatives.
+• Technical Skills: Python, Pytorch, Tensorflow 2.0, Pandas, Matplotlib, Tableau, Overleaf, LaTeX, Different Annotation Platforms
+• Soft Skills: Management, Teamwork, Presentation skills, Project report and Grant Proposal writing.
+
+Education
+B.Sc. in Electrical and Electronic Engineering (EEE)
+
+Dhaka, Bangladesh
+
+Bangladesh University of Engineering and Technology (BUET)
+2014 – 2019
+• Relevant coursework: Digital Signal Processing, Random Signal Processing, Communication Theory, Control Theory, Biomedical Instrumenta‑
+tion.
+• Thesis: X‑ray image compression using convolutional recurrent neural networks.
+
+Selected Publications
+Published in deep learning conferences and journals. Citation 300+. NLP, Biomedical AI, Low‑resource AI.
+2019
+2019
+2022
+
+MAY 3, 2026
+
+A pipeline for lung tumor detection and segmentation from CT scans using dilated convolutional
+neural networks, Shahruk Hossain, Suhail Najeeb, Asif Shahriyar Sushmit, …
+
+End‑to‑end sleep staging with raw single channel EEG using deep residual convnets, Ahmed Imtiaz
+Humayun, Asif Sushmit, Taufiq Hasan, Mohammed Imamul Hassan Bhuiyan
+
+Bengali Common Voice speech dataset for automatic speech recognition, Samiul Alam, Asif Sushmit,
+Zaowad Abdullah, …
+
+IEEE ICASSP
+IEEE EMBS BHI
+arXiv
+
+3
+
+2020
+2019
+2022
+2023
+2023
+2020
+2017
+2017
+2024
+2024
+2023
+2023
+2022
+2025
+
+A Large Multi‑Target Dataset of Common Bengali Handwritten Graphemes, Samiul Alam, Tahsin Reasat,
+Asif Sushmit, …
+
+X‑ray image compression using convolutional recurrent neural networks, Asif Sushmit, Shakib Uz
+
+Zaman, Ahmed Imtiaz Humayun, Taufiq Hasan, Mohammed Imamul Hassan Bhuiyan
+Cardiac CT motion artifact grading via semi‑automatic labeling and vessel tracking using synthetic
+image‑augmented training data, Yongshun Xu, Asif Sushmit, Qing Lyu, …, Hengyong Yu
+
+Badlad: A large multi‑domain Bengali document layout analysis dataset, Md Istiak Hossain Shihab, Md
+Rakibul Hasan, …, Asif Sushmit
+
+OOD‑Speech: A Large Bengali Speech Recognition Dataset for Out‑of‑Distribution Benchmarking,
+Souhardya Saha Dip, Samiul Alam, Nazia Tasnim, …, Asif Sushmit
+
+Multi‑label classification of common Bengali handwritten graphemes: Dataset and challenge, Samiul
+Alam, Tahsin Reasat, Asif Sushmit, …
+
+Design of a gesture controlled robotic gripper arm using neural networks, Asif Sushmit, Fariha
+Musharrat Haque, Md Shahriar, …, MA Rashid Sarkar
+
+Design of a voice controlled robotic gripper arm using neural networks, Fariha Musharrat Haque, Asif
+Sushmit, MA Rashid Sarkar
+
+Unicode normalization and grapheme parsing of Indic languages, Md Nazmuddoha Ansary, Quazi Adibur
+
+Rahman Adib, …, Asif Sushmit
+Mapping violence: Developing an extensive framework to build a Bangla sectarian expression dataset
+from social media interactions, Nazia Tasnim, Sujan Sen Gupta, …, Asif Sushmit
+
+bbocr: An open‑source multi‑domain OCR pipeline for Bengali documents, Imam Mohammad
+Zulkarnain, Shayekh Bin Islam, …, Asif Sushmit
+
+Abugida normalizer and parser for Unicode texts, Md Nazmuddoha Ansary, Quazi Adibur Rahman Adib,
+…, Asif Sushmit
+A data generation pipeline for cardiac vessel segmentation and motion artifact grading, Asif Sushmit,
+
+Yongshun Xu, Olivia Mariani, …, Hengyong Yu
+RegSpeech12: A regional corpus of Bengali spontaneous speech across dialects, Md Rezuwan Hassan,
+Azmol Hossain, …, Asif Sushmit
+
+ICDAR
+IEEE EMBS BHI
+Journal of X‑Ray
+Science and
+Technology
+ICDAR
+Interspeech
+arXiv
+IEEE ICPCSI
+IEEE ICECDS
+LREC‑COLING
+arXiv
+arXiv
+arXiv
+SPIE Developments
+in X‑Ray
+Tomography
+arXiv
+
+Towards Santali linguistic inclusion: Building the first Santali‑to‑English translation model using mT5
+2024
+
+Transformer and data augmentation, Syed Mohammed Mostaque Billah, Ateya Ahmed Subarna, …, Asif
+
+arXiv
+
+Sushmit
+TEAM‑Atreides at SemEval‑2022 Task 11: On leveraging data augmentation and ensemble to recognize
+2022
+
+complex Named Entities in Bangla, Nazia Tasnim, Md Istiak Shihab, Asif Sushmit, Steven Bethard, Farig
+
+SemEval
+
+Sadeque
+2020
+2024
+2024
+2023
+2020
+2025
+
+Segcodenet: Color‑coded segmentation masks for activity detection from wearable cameras, Asif
+
+Sushmit, Partho Ghosh, Md Abrar Istiak, Nayeeb Rashid, Ahsan Habib Akash, Taufiq Hasan
+
+arXiv
+
+Data efficient contrastive learning in histopathology using active sampling, Tahsin Reasat, Asif Sushmit, Machine Learning
+
+David S. Smith
+
+IPA transcription of Bengali texts, Kanij Fatema, Fazle Dawood Haider, …, Asif Sushmit
+Bornil: An open‑source sign language data crowdsourcing platform for AI enabled dialect‑agnostic
+communication, Shahriar Elahi Dhruvo, Mohammad Akhlaqur Rahman, …, Asif Sushmit
+
+Privacy‑aware activity classification from first person office videos, Partho Ghosh, Md Abrar Istiak,
+Nayeeb Rashid, Ahsan Habib Akash, …, Asif Sushmit, Taufiq Hasan
+
+BanglaDocAtlas: A Multi‑Class Annotated Dataset for Complex Bangla Document Layout Analysis, Md
+
+Safayat Hossain, Jannatul Ferdous, …, Asif Sushmit
+
+with Applications
+arXiv
+arXiv
+arXiv
+IEEE HPEC
+
+Professional Landmarks, Achievements and Certifications
+
+Selected Delegate, ITU‑T AI Capacity Building Workshop, Commissioned by the ICT Division, Govt. of
+Bangladesh and ITU to participate in the International Telecommunication Union (ITU) initiative on AI
+
+May 2025 Technology and Standards. Engaged with high‑level regulators and ministry officials to address the
+
+New Delhi, India
+
+’Standardization Gap’ in Asia‑Pacific. Focused on the technical frameworks for AI Ethics, Risk Governance,
+and the integration of ITU‑T Recommendations into national digital transformation strategies.
+
+MAY 3, 2026
+
+4
+
+Runner’s Up, IEEE VIP CUP 2019, Coached BUET Synapticans, the competition team from mHealth
+Research Lab, Department of Biomedical Engineering, BUET. Successful tutoring a team containing 6
+2020
+
+undergraduate students in IEEE VIP Cup 2019, ICIP and achieving the runners up position. Construction of a
+
+ICIP, Taiwan
+
+single stream deep learning system for activity recognition from privacy protected first person chest
+mounted video. Currently writing a research paper with the team on a novel network for human activity
+classification from first person video data.
+
+2020
+
+Runner’s Up Call for Nation, Covid Accelerator (ICT Division, Peoples Republic of Bangladesh) for
+RadAssist, the first AI assisted teleradiology platform from Bangladesh.
+
+Govt of Bangladesh
+
+Champion, IEEE VIP CUP 2018, Attended ICIP 2018 in Greece to present the work in the final round of the
+2018
+
+competition. Implemented an automated pipeline for lung tumor detection and segmentation from 3D lung
+
+ICIP, Greece
+
+CT scans from the NSCLC‑Radiomics Dataset
+
+Launched National Grammatical Error Detection(GED) competition in Kaggle, Served as a host, data
+2023
+
+curator and judge in a GED hackathon arranged by Bengali.AI and EEE Department, Bangladesh University of
+
+Bangladesh
+
+Engineering and Technology. Analyzed the system predictions and found out possible linguistic biases in the
+model’s performance and provided feedback to 10 national top research teams.
+
+Kaggle Best Community Competition Award, Bengali.AI Received the best community competition
+
+2022
+
+award(August) from Kaggle for arranging the DL Sprint competition (Bengali Automatic Speech
+Recognition). 59 teams participated in the two‑month‑long competition. I co‑designed the train and
+
+San Francisco
+
+cross‑domain test set for the competition
+
+Hosted National ASR Hackathon, Served as a host, data curator and judge in an ASR hackathon arranged
+2022
+
+by Bengali.AI and CSE Department, Bangladesh University of Engineering and Technology. Analyzed the
+
+Bangladesh
+
+system predictions and found out possible linguistic biases in the model’s performance and provided
+feedback to 10 national top research teams.
+
+2021
+2020
+2020
+2018
+
+Speaker in ICBBDB 2021, UIU Bangladesh, Conference talk on Bengali language tech: The history, the
+
+Bangladesh
+
+challenges and a roadmap.
+
+Guest Lecturer and Course Designer, Introduction to Data Science, SWE 227, Department of Computer
+
+Science and Engineering, SUST
+Public Lecture, Topic: ‘Demystifying AI’ at Reading Club Trust, University of Dhaka.
+
+SUST, Bangladesh
+University of Dhaka,
+Bangladesh
+
+Research Grant, Obtained a TitanXp GPU as a research grant from NVIDIA under their GPU Grant program
+
+NVIDIA
+
+for data science researchers.
+
+Public Lecture, Topic: ‘Workshop on Basic Matlab and Image Processing’
+
+BUET, Bangladesh
+
+2018
+
+Instructor, 6 day long hands on workshop on image processing and deep learning at university science club. BUET, Bangladesh
+
+2017
+
+Champion, National Robotics Competition, 2017 (machine learning).
+
+NSU, Bangladesh
+
+2017
+
+an automated national grid load prediction system using machine learning for successful integration of local
+
+2019
+
+Champion, National Power Energy Hackathon, 2017 under the name of team ‘BUET Luminaries’. Designed
+
+Govt. of
+Bangladesh
+
+smart grid systems with SCADA network.
+
+2013
+2012
+
+Runner’s Up, Bangladesh Physics Olympiad
+
+Runner’s Up, Bangladesh National Science Olympiad
+
+Dhaka Divisional
+Bangladesh
+
+Languages
+Bengali
+English
+Hindi / Urdu
+Spanish
+
+Native proficiency
+Professional fluency; IELTS 8.0, TOEFL 107
+Conversational
+Basic
+
+References
+Faiz Ahmed Taiyeb — Former Special Assistant to the Cheif Advisor, BD (State Minister). Email: faiz.taiyeb@gmail.com.
+Sheesh Haidar Chowdhury — Former Secretary, ICT Division BD.
+Dr. Taufiq Hasan — Assistant Professor, Department of Biomedical Engineering, BUET.
+Dr. Ahmed Imtiaz Humayun — Research Scientist, Google. Email: humayuna@google.com
+
+MAY 3, 2026
+
+5
+
+
