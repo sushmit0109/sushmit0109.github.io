@@ -9,36 +9,11 @@ author_profile: true
 
 <p>My teaching and mentorship experience reflects a commitment to translating technical research into practical learning for students and emerging researchers in Bangladesh and internationally.</p>
 
-<h2>University Teaching</h2><hr />
+<h2>Teaching Experience</h2><hr />
 
-<p><strong>Rensselaer Polytechnic Institute (RPI)</strong> – Troy, NY, USA (Sept 2021 – Sept 2023)</p>
-<p>Graduate Research & Teaching Assistant, Biomedical Engineering</p>
-<ul>
-  <li>Supported undergraduate and graduate teaching activities in biomedical imaging</li>
-  <li>Conducted lab sessions, grading, and academic mentoring for imaging and engineering coursework</li>
-  <li>Collaborated with interdisciplinary research teams across engineering and medical imaging domains</li>
-</ul>
-
-<p><strong>Brac University</strong> – Bangladesh (Jan 2021 – Sept 2021)</p>
-<p>VC Fellow, Lecturer, Department of Computer Science and Engineering</p>
-<ul>
-  <li>Taught theory and lab classes for CSE 422 (Artificial Intelligence)</li>
-  <li>Taught MAT 215 (Complex Variables & Laplace Transformations)</li>
-  <li>Taught MAT 330 (Numerical Analysis)</li>
-  <li>Supervised research projects and provided student consultation and academic support</li>
-  <li>Supported assessment, grading, and official academic activities</li>
-</ul>
-
-<h2>Research Leadership and Mentorship</h2><hr />
-
-<p><strong>Bengali.AI</strong> – Bangladesh (Mar 2018 – Present)</p>
-<p>Coordinator</p>
-<ul>
-  <li>Led community-driven AI research initiatives and multi-institutional collaborations</li>
-  <li>Launched large-scale Bengali language dataset and research competitions</li>
-  <li>Crowdsourced speech and sign language corpora for applied AI research</li>
-  <li>Mentored researchers and data scientists on dataset creation, annotation protocols, and reproducible research workflows</li>
-</ul>
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 <h2>Teaching Interests</h2><hr />
 
@@ -50,7 +25,3 @@ author_profile: true
   <li>Socio-technical systems analysis and stakeholder coordination</li>
   <li>Multilingual NLP, biomedical signal processing, and domain-specific AI applications</li>
 </ul>
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}

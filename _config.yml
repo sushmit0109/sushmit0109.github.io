@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Asif Shahriyar Sushmit"
+site_theme               : "sunrise" # The available theme options are "default", "air", "sunrise", "mint", "dirt" and "contrast"; dark mode will use sunrise-dark when available
+title                    : "Sushmit Asif"
 title_separator          : "-"
-name                     : &name "Asif Shahriyar Sushmit"
+name                     : &name "Sushmit Asif"
 description              : &description "Policy technologist and data scientist with extensive experience in Bangladesh’s digital transformation ecosystem, including cybersecurity, data governance, AI policy, and public-sector technology oversight."
 url                      : https://sushmit0109.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "sushmit0109/sushmit0109.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Asif Shahriyar Sushmit"
+  name             : "Sushmit Asif"
   pronouns         : 
   bio              : "Policy technologist and data scientist with extensive experience in digital governance, cybersecurity, data governance, and AI policy for Bangladesh’s public sector."
   location         : "Dhaka, Bangladesh"
@@ -37,7 +37,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.co.uk/citations?user=S3FHKh4AAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : ""
@@ -54,19 +54,19 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "sushmit0109"
-  kaggle           : # Username  
+  kaggle           : "sushmit0109"# Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "sushmit0109"# Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
