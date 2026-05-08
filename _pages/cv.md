@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<p><a href="{{ site.baseurl }}/AsifSushmit_CV.pdf" class="btn btn--primary" download>Download CV as PDF</a></p>
+
 Profile
 ======
 Policy technologist and data scientist with extensive experience in Bangladesh’s digital transformation ecosystem, including cybersecurity and data governance legal drafting, public-sector system design, and technical audit/oversight of national-scale digital services. Proven ability to operate in high-trust environments, translate international best practices into implementable controls, and coordinate multi-stakeholder delivery across government, development partners, and technical teams.
