@@ -27,7 +27,7 @@ Professional experience
 ======
 * Policy Analyst, Ministry of Posts, Telecommunications and Information Technology | Coordinator, ICT Division Adviser’s Office — Dhaka, Bangladesh
   * 2024 – Feb 2025
-  * Led and contributed to drafting national legal instruments including the Cyber Safety Ordinance 2025, Personal Data Protection Ordinance 2025, National Data Governance & Interoperability Authority (NDGIA) Ordinance 2025, and Postal Service Ordinance 2025.
+  * Led and contributed to drafting national legal instruments including the Cyber Safety Law 2025, Personal Data Protection Law 2025, National Data Governance & Interoperability Authority (NDGIA) Law 2025, and Postal Service Law 2025.
   * Restructured a USD 24M government AI project titled ‘Enhancement of Bangla Language in ICT’ and designed the project to accommodate native multimodal LLM, speech recognition support for major dialects and indigenous languages, and native GPU cloud infrastructure.
   * Supported whole-of-government digital transformation initiatives (Land, BRTA, NBR, Commerce, Expatriates Welfare, Environment) by coordinating cross-agency planning and aligning operational delivery with governance and risk considerations.
   * Spearheaded design and development coordination for police digital solutions including online and on-call General Diary via 333 Hotline IVR, online and on-call FIR, Incident Tracking System, and Joint Command Centre communication app.
@@ -57,7 +57,7 @@ Professional experience
 
 * Member, National AI Policy Steering Committee, ICT Division — Dhaka, Bangladesh
   * 2025 – 2026
-  * Contributed to the formulation of Bangladesh’s National AI Policy (2026–2030), defining national vision, principles, and implementation pathways for ethical, human-centric, and innovation-driven AI adoption.
+  * Contributed to the formulation of Bangladesh’s National AI Policy (draft) (2026–2030), defining national vision, principles, and implementation pathways for ethical, human-centric, and innovation-driven AI adoption.
   * Co-authored policy frameworks covering AI governance, data management and interoperability, risk classification, regulatory sandboxes, public-sector deployment, and institutional oversight mechanisms.
   * Provided technical and research input across priority sectors including public service delivery, education and R&D, labour and employment, healthcare, agriculture, national security, and disaster risk reduction.
   * Integrated international norms and best practices (OECD AI Principles, UNESCO AI Ethics, SDGs, and human-rights-based approaches) into nationally implementable regulatory and governance structures.

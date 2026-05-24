@@ -2,7 +2,6 @@
 title: "VC Fellow and Lecturer"
 collection: teaching
 type: "University teaching"
-permalink: /teaching/2021-01-01-brac-lecturer
 venue: "Brac University, Department of Computer Science and Engineering"
 date: 2021-01-01
 location: "Dhaka, Bangladesh"

@@ -31,11 +31,11 @@ For inquiries, contact [sushmit@ieee.org](mailto:sushmit@ieee.org).
 
 Selected work
 ======
-* Drafted national legal and governance instruments such as the Cyber Safety Ordinance 2025, Personal Data Protection Ordinance 2025, NDGIA Ordinance 2025, and Postal Service Ordinance 2025. [See full list](/laws-and-policies/).
+* Drafted national legal and governance instruments such as the Cyber Safety Law 2025, Personal Data Protection Law 2025, NDGIA Law 2025, and Postal Service Law 2025. [See full list](/laws-and-policies/).
 
 * Reorganized a USD 24M government AI project to support native multimodal LLMs, dialect-aware speech recognition, indigenous language coverage, and local GPU cloud deployment.
 * Delivered information security assessments, security improvement plans, and implementation roadmaps for UNDP and Bangladesh government platforms.
-* Contributed to Bangladesh’s National AI Policy (2026–2030), including governance, data management, risk classification, and regulatory sandbox frameworks.
+* Contributed to Bangladesh’s National AI Policy (draft) (2026–2030), including governance, data management, risk classification, and regulatory sandbox frameworks.
 * Led community-driven Bengali language technology initiatives, dataset creation, and research collaborations in speech, sign language, and document understanding.
 
 For more about my publications, talks, teaching, and full CV, see [the CV page](/cv/). To view all laws and policies I have contributed to, visit [Laws and Policies](/laws-and-policies/).

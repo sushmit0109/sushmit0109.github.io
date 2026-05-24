@@ -2,7 +2,6 @@
 title: "Coordinator, Bengali.AI"
 collection: teaching
 type: "Research Leadership and Mentorship"
-permalink: /teaching/2020-03-01-bengali-ai-coordinator
 venue: "Bengali.AI"
 date: 2020-03-01
 location: "Bangladesh"
