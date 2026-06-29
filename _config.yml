@@ -14,6 +14,7 @@ title_separator          : "-"
 name                     : &name "Sushmit Asif"
 description              : &description "Policy technologist and data scientist with extensive experience in Bangladesh’s digital transformation ecosystem, including cybersecurity, data governance, AI policy, and public-sector technology oversight."
 url                      : https://sushmit0109.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+# Custom domain: সুস্মিত.বাংলা also points here via CNAME
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sushmit0109/sushmit0109.github.io"
