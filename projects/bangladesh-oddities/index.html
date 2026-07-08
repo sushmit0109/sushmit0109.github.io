@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bangladesh Oddities</title>
+<meta name="description" content="A playful portal of Bangladesh facts, local curiosities, and surprising stories from around the country.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐜</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Hind+Siliguri:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div id="ant-layer" aria-hidden="true"></div>
+<div id="toast" class="toast" aria-live="polite"></div>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="#top">
+      <span class="brand-ant">🐜</span>
+      <span class="brand-word">
+        <span class="t-en">IPD</span><span class="t-bn">আইপিডি</span>
+      </span>
+    </a>
+    <div class="header-right">
+      <span class="ipd-tag"><span class="t-en">an IPD field station</span><span class="t-bn">আইপিডি'র মজার গবেষণা ঘাঁটি</span></span>
+      <div class="lang-toggle" id="langToggle" role="group" aria-label="Language">
+        <button data-mode="bn" class="active">বাং</button>
+        <button data-mode="en">EN</button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main id="top">
+
+  <section class="hero wrap">
+    <span class="eyebrow">
+      <span class="t-en">Bangladesh — curious, surprising, and wonderfully local</span>
+      <span class="t-bn">বাংলাদেশ — কৌতূহলী, অদ্ভুত, আর খুবই স্থানীয়</span>
+    </span>
+
+    <blockquote class="big-quote">
+      <p>
+        <span class="t-en">“There are three kinds of lies: those told knowingly, those told unknowingly, and statistics.”</span>
+        <span class="t-bn">“মিথ্যা তিন প্রকার: যা জেনেশুনে বলা হয়, যা না জেনে বলা হয়, আর পরিসংখ্যান।”</span>
+      </p>
+    </blockquote>
+
+    <p class="mission">
+      <span class="t-en">This is a pocket portal of Bangladesh oddities — the kind of local facts that make you say, “Wait, really?” Fresh stories, real places, and a few delightful surprises.</span>
+      <span class="t-bn">এটি বাংলাদেশের অদ্ভুত সত্যের একটি ছোট্ট পোর্টাল — এমন স্থানীয় তথ্য যা শুনে আপনি বলবেন, “ওইটা সত্যি?” নতুন গল্প, সত্যিকারের জায়গা, আর কিছু মজার অদ্ভুততা।</span>
+    </p>
+
+    <div class="hero-highlights">
+      <div class="hero-highlight-card">
+        <strong>🧪</strong>
+        <span class="t-en">Real studies</span>
+        <span class="t-bn">সত্যিকারের গবেষণা</span>
+      </div>
+      <div class="hero-highlight-card">
+        <strong>✨</strong>
+        <span class="t-en">Odd but true</span>
+        <span class="t-bn">অদ্ভুত কিন্তু সত্য</span>
+      </div>
+      <div class="hero-highlight-card">
+        <strong>↺</strong>
+        <span class="t-en">Fresh every 2 days</span>
+        <span class="t-bn">প্রতি ২ দিনে নতুন</span>
+      </div>
+    </div>
+
+    <div class="hero-cta">
+      <a href="#today" class="btn btn-primary"><span class="t-en">See today's fact ↓</span><span class="t-bn">আজকের তথ্য দেখুন ↓</span></a>
+      <a href="#archive" class="btn btn-ghost"><span class="t-en">Browse the archive</span><span class="t-bn">আর্কাইভ ঘুরে দেখুন</span></a>
+      <button type="button" id="randomFactBtn" class="btn btn-ghost btn-accent"><span class="t-en">Surprise me</span><span class="t-bn">অদ্ভুত একটা দেখান</span></button>
+    </div>
+  </section>
+
+  <section id="today" class="today wrap">
+    <div class="section-label">
+      <span class="tag-pill tag-today"><span class="t-en">Today</span><span class="t-bn">আজ</span></span>
+      <h2><span class="t-en">Today's Fact</span><span class="t-bn">আজকের তথ্য</span></h2>
+    </div>
+    <div id="todayCard" class="today-card"></div>
+    <p class="countdown">
+      <span class="t-en">Next fact drops in </span><span class="t-bn">পরবর্তী তথ্য আসছে </span>
+      <strong id="countdownVal">—</strong>
+    </p>
+  </section>
+
+  <section id="archive" class="archive wrap">
+    <div class="section-label">
+      <h2><span class="t-en">The Archive</span><span class="t-bn">আর্কাইভ</span></h2>
+      <p class="section-sub">
+        <span class="t-en">One weird-but-true finding every 2 days. Filter, tap, and read.</span>
+        <span class="t-bn">প্রতি ২ দিনে একটা অদ্ভুত-কিন্তু-সত্যি তথ্য। ফিল্টার করুন, চাপুন, আর পড়ে দেখুন।</span>
+      </p>
+      <p class="section-tip">
+        <span class="t-en">Tap any card to open the full story.</span>
+        <span class="t-bn">যেকোনো কার্ডে চাপলে পুরো গল্প খুলে যাবে।</span>
+      </p>
+    </div>
+    <div id="filters" class="filters"></div>
+    <div id="archiveGrid" class="archive-grid"></div>
+  </section>
+
+  <section id="about" class="about wrap">
+    <div class="section-label">
+      <h2><span class="t-en">Why This Exists</span><span class="t-bn">কেন এই আয়োজন</span></h2>
+    </div>
+    <p>
+      <span class="t-en">Institute of Policy Dynamics does serious policy work elsewhere. This corner is different: real, peer-reviewed research, chosen because it's delightful, not because it's convenient. Every fact links to its original source — we do not invent data, ever. If a study can make you laugh and then make you think, it belongs here.</span>
+      <span class="t-bn">নীতি-গতিবিদ্যা ইনস্টিটিউট অন্যত্র গুরুগম্ভীর নীতি-গবেষণা করে। এই কোণটা আলাদা: এখানে থাকে সত্যিকারের, পিয়ার-রিভিউড গবেষণা — যা বেছে নেওয়া হয়েছে আনন্দদায়ক বলে, সুবিধাজনক বলে নয়। প্রতিটি তথ্যের সাথে মূল সূত্রের লিংক দেওয়া আছে — আমরা কখনো ডেটা বানাই না। যে গবেষণা প্রথমে হাসায়, তারপর ভাবায় — তার জায়গা এখানেই।</span>
+    </p>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <p>
+      <span class="t-en">© 2026 Bangladesh Oddities · a new local fact every 2 days</span>
+      <span class="t-bn">© ২০২৬ বাংলাদেশ অদ্ভুততা · প্রতি ২ দিনে নতুন স্থানীয় তথ্য</span>
+    </p>
+    <p class="footer-ants">
+      <span class="t-en">A few tiny surprises are tucked into the page.</span>
+      <span class="t-bn">পাতাটির ভেতরে কিছু ছোট্ট অদ্ভুততা লুকিয়ে আছে।</span>
+    </p>
+  </div>
+</footer>
+
+<div id="modalRoot"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
