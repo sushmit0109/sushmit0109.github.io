@@ -25,9 +25,13 @@ Core competencies
 
 Professional experience
 ======
+* Executive Director, Institute of Policy Dynamics — Dhaka, Bangladesh
+  * Apr 2026 – Present
+  * Leading the Institute of Policy Dynamics ([ipd.bd](https://www.ipd.bd)) as Executive Director, overseeing research, policy engagement, and institutional operations.
+
 * Policy Analyst, Ministry of Posts, Telecommunications and Information Technology | Coordinator, ICT Division Adviser’s Office — Dhaka, Bangladesh
   * 2024 – Feb 2025
-  * Led and contributed to drafting national legal instruments including the Cyber Safety Law 2025, Personal Data Protection Law 2025, National Data Governance & Interoperability Authority (NDGIA) Law 2025, and Postal Service Law 2025.
+  * Led and contributed to drafting national legal instruments including the Cyber Safety Law 2026, Personal Data Protection Law 2025, National Data Governance Law 2026, and Postal Service Law 2026.
   * Restructured a USD 24M government AI project titled ‘Enhancement of Bangla Language in ICT’ and designed the project to accommodate native multimodal LLM, speech recognition support for major dialects and indigenous languages, and native GPU cloud infrastructure.
   * Supported whole-of-government digital transformation initiatives (Land, BRTA, NBR, Commerce, Expatriates Welfare, Environment) by coordinating cross-agency planning and aligning operational delivery with governance and risk considerations.
   * Spearheaded design and development coordination for police digital solutions including online and on-call General Diary via 333 Hotline IVR, online and on-call FIR, Incident Tracking System, and Joint Command Centre communication app.
@@ -42,7 +46,7 @@ Professional experience
   * Conducted investigations into irregularities across government tenders, recruitment processes, and evaluation mechanisms; handled sensitive documents and recorded whistleblower testimonies with confidentiality and duty-of-care.
 
 * National Consultant (Information Security), UNDP — Dhaka, Bangladesh
-  * Dec 2025 – Jun 2026
+  * Dec 2025 – Apr 2026
   * Conducted comprehensive information security assessments to identify threats and vulnerabilities across hardware, software, and data assets; analyzed risks and proposed mitigation measures to protect confidentiality, integrity, and availability (CIA).
   * Reviewed and strengthened security policies, standards, and procedures; developed updated security policy and control recommendations aligned with industry best practices.
   * Reviewed system security architecture and configurations to detect design flaws and access/control weaknesses; assessed risk exposure and recommended actionable remediation measures.

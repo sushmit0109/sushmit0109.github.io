@@ -31,7 +31,7 @@ For inquiries, contact [sushmit@ieee.org](mailto:sushmit@ieee.org).
 
 Selected work
 ======
-* Drafted national legal and governance instruments such as the Cyber Safety Law 2025, Personal Data Protection Law 2025, NDGIA Law 2025, and Postal Service Law 2025. [See full list](/laws-and-policies/).
+* Drafted national legal and governance instruments such as the Cyber Safety Law 2026, Personal Data Protection Law 2025, National Data Governance Law 2026, and Postal Service Law 2026. [See full list](/laws-and-policies/).
 
 * Reorganized a USD 24M government AI project to support native multimodal LLMs, dialect-aware speech recognition, indigenous language coverage, and local GPU cloud deployment.
 * Delivered information security assessments, security improvement plans, and implementation roadmaps for UNDP and Bangladesh government platforms.
